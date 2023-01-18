@@ -1,7 +1,7 @@
 Langkah-langkah Manual Instalasi
 1. Download dan install XAMPP untuk menjalankan Apache, MySQL, dan Tomcat
 2. Download PHP dengan versi terbaru
-3. Buka github dan download folder .zip melalui link github https://github.com/FerdyAtmaja/project-UAS-DWO/
+3. Buka github dan download folder .zip melalui link github https://github.com/apriyantiii/dashboard-datawarehouse-adventureworks.git
 4. Export file zip yang di download dan letakkan di bagian directory C:\xampp\htdocs\project-UAS-DWO yang terdapat pada masing-masing device
 5. Download database yang digunakan yaitu dwouts.sql yang juga sudah terdapat di folder .zip yg telah di download
 6. Akses http://localhost/phpmyadmin/ lalu buat database baru dengan nama dwouts
